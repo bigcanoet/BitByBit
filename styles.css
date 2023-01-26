@@ -46,7 +46,7 @@ img {
 
 .special {
     color: orange;
-    font-weight: bold;
+    font-weight: "600";
   }
 
 a:link {
@@ -54,21 +54,21 @@ a:link {
   }
   
 a:visited {
-    color: blue;
+    color: DarkBlue;
   }
 
 a:hover {
     text-decoration: none;
   }
-  div.gallery {
-    border: 1px solid #ccc;
+  div.layout {
+    border: 2px solid #ccc;
   }
   
-  div.gallery:hover {
+  div.layout:hover {
     border: 1px solid #777;
   }
   
-  div.gallery img {
+  div.layout img {
     width: 100%;
     height: auto;
   }
