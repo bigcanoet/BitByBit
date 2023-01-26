@@ -58,11 +58,11 @@ a:hover {
   }
 
 div.layout {
-    border: 2px solid #ccc;
+    border: 2px solid Gainsboro;
   }
 
 div.layout:hover {
-    border: 1px solid #777;
+    border: 1px solid DarkGrey;
   }
 
 div.layout img {
@@ -71,7 +71,7 @@ div.layout img {
   }
 
 div.desc {
-    padding: 15px;
+    padding: 16px;
     text-align: center;
   }
 
